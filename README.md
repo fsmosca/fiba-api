@@ -137,3 +137,9 @@ Other valid zone values are: africa, americas and asia
 https://apifiba.fly.dev/worldcup/2023/qualifier?team=ger
 ```
 
+## Credits
+
+* [FIBA](https://www.fiba.basketball/)
+* [Fly.io](https://fly.io/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+
