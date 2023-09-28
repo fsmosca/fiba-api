@@ -1,0 +1,397 @@
+C1,C1S,C2,C2S,GI,DP,LOC,EVENT,ZONE
+CAF,48,ANG,78,3,2021.11.28,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,76,CAF,60,6,2022.07.03,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,57,ANG,56,1,2021.11.26,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+CAF,64,CIV,92,2,2021.11.27,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,73,CIV,75,4,2022.07.01,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,73,CAF,63,5,2022.07.02,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,69,CMR,71,7,2022.08.26,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,85,COD,56,10,2023.02.24,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+CPV,58,ANG,65,6,2022.08.27,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,77,CPV,69,7,2022.08.28,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,80,CPV,67,9,2023.02.25,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+CPV,79,CIV,64,10,2023.02.26,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,62,COD,51,3,2022.02.27,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,52,EGY,80,6,2022.07.03,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,74,EGY,86,8,2022.08.27,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,63,CMR,71,11,2023.02.25,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,76,CAF,71,1,2021.11.26,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,75,GUI,59,2,2021.11.27,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,80,GUI,69,3,2021.11.28,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+CAF,61,GUI,56,4,2022.07.01,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,65,ANG,85,5,2022.07.02,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,56,CIV,65,6,2022.07.03,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,48,CPV,65,7,2022.08.26,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+CPV,78,GUI,70,10,2023.02.24,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+KEN,56,COD,66,1,2022.02.25,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,105,KEN,51,2,2022.02.26,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,20,KEN,0,4,2022.07.01,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+KEN,39,EGY,72,5,2022.07.02,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+CPV,79,NGR,71,1,2021.11.26,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+NGR,70,CPV,79,3,2022.07.01,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,78,NGR,66,5,2022.08.26,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+NGR,89,GUI,70,6,2022.08.27,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,70,NGR,67,7,2022.08.28,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+NGR,72,CIV,63,8,2023.02.24,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,59,NGR,62,9,2023.02.25,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+NGR,59,ANG,65,10,2023.02.26,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+RWA,45,CMR,57,2,2022.02.26,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,52,RWA,59,5,2022.07.02,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,75,EGY,57,1,2022.02.25,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,62,SEN,57,2,2022.02.26,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+KEN,55,SEN,100,3,2022.02.27,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,76,SEN,43,4,2022.07.01,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,60,COD,72,5,2022.07.02,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,86,KEN,54,6,2022.07.03,"City, Arena: Alexandria (EGY), Borg Elarab Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,90,CMR,71,9,2022.08.28,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,63,SEN,89,12,2023.02.26,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,68,RWA,56,1,2022.02.25,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,74,CMR,68,3,2022.02.27,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+RWA,63,SSD,73,4,2022.07.01,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,56,SSD,67,6,2022.07.03,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,69,SSD,66,7,2022.08.26,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,101,COD,58,8,2022.08.27,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,65,SSD,85,9,2022.08.28,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,83,SEN,75,10,2023.02.24,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,61,SSD,82,11,2023.02.25,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,97,EGY,77,12,2023.02.26,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+CMR,51,TUN,55,1,2022.02.25,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,64,SSD,72,2,2022.02.26,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,65,RWA,51,3,2022.02.27,"City, Arena: Dakar (SEN), Dakar Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,65,CMR,54,4,2022.07.01,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+SSD,75,TUN,61,5,2022.07.02,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+RWA,66,TUN,76,6,2022.07.03,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+EGY,67,TUN,61,7,2022.08.26,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,63,SEN,73,8,2022.08.27,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+COD,45,TUN,57,9,2022.08.28,"City, Arena: Monastir (TUN), Salle Mohamed Mzali",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,67,EGY,71,10,2023.02.24,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+SEN,53,TUN,70,11,2023.02.25,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+TUN,68,COD,72,12,2023.02.26,"City, Arena: Alexandria (EGY), Al Ittihad Stadium",FIBA World Cup 2023 Qualifier Africa,Africa
+UGA,77,CPV,74,1,2021.11.27,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+UGA,69,NGR,95,2,2021.11.28,"City, Arena: Benguela (ANG), Pavilhão Multiusos Acácias Rubras",FIBA World Cup 2023 Qualifier Africa,Africa
+CPV,87,UGA,78,3,2022.07.02,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+NGR,91,UGA,72,4,2022.07.03,"City, Arena: Kigali (RWA), BK Arena",FIBA World Cup 2023 Qualifier Africa,Africa
+ANG,84,UGA,62,5,2022.08.26,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+UGA,80,CIV,91,6,2022.08.27,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+GUI,76,UGA,69,7,2022.08.28,"City, Arena: Abidjan (CIV), Palais des Sports de Treichville",FIBA World Cup 2023 Qualifier Africa,Africa
+UGA,49,ANG,82,8,2023.02.24,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+CIV,89,UGA,44,9,2023.02.25,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+UGA,47,GUI,88,10,2023.02.26,"City, Arena: Luanda (ANG), Pavilhao Multiusos de Luanda",FIBA World Cup 2023 Qualifier Africa,Africa
+ARG,95,BAH,77,8,2022.08.29,"City, Arena: Mar del Plata (ARG), Polideportivo Islas Malvinas",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,76,ARG,80,10,2022.11.13,"City, Arena: Nassau (BAH), Sir Kendal Isaacs Gymnasium",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,115,BAH,73,1,2021.11.28,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,77,CAN,113,2,2021.11.29,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,99,ARG,87,7,2022.08.25,"City, Arena: Victoria (CAN), Victoria Memorial Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+ARG,83,CAN,72,11,2023.02.23,"City, Arena: Mar del Plata (ARG), Polideportivo Islas Malvinas",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,77,CHI,53,1,2021.11.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+CHI,55,BRA,81,2,2021.11.27,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+CHI,90,COL,76,3,2022.02.25,"City, Arena: Valdivia (CHI), Coliseo Antonio Azurmendi",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,119,COL,73,4,2022.02.28,"City, Arena: Franca (BRA), Ginásio Pedrocão",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,67,CHI,66,5,2022.06.30,"City, Arena: Barranquilla (COL), Coliseo Deportivo Elias Chegwin",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,104,BRA,98,6,2022.07.03,"City, Arena: Barranquilla (COL), Coliseo Deportivo Elias Chegwin",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,85,DOM,79,3,2022.02.26,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,65,DOM,90,4,2022.02.27,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,75,CAN,95,5,2022.07.01,"City, Arena: Hamilton (CAN), First Ontario Centre",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,88,BAH,80,6,2022.07.04,"City, Arena: Nassau (BAH), BahaMar Grand Ballroom",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,80,ARG,69,9,2022.11.10,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+ARG,75,DOM,79,12,2023.02.26,"City, Arena: Mar del Plata (ARG), Polideportivo Islas Malvinas",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,87,ISV,65,1,2021.11.28,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+ISV,56,DOM,100,2,2021.11.29,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,86,ISV,74,3,2022.02.26,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,94,ISV,46,4,2022.02.27,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+ISV,80,BAH,97,5,2022.07.01,"City, Arena: Charlotte Amalie (ISV), UVI Sports and Fitness Center",FIBA World Cup 2023 Qualifier Americas,Americas
+ISV,67,CAN,113,6,2022.07.04,"City, Arena: Charlotte Amalie (ISV), UVI Sports and Fitness Center",FIBA World Cup 2023 Qualifier Americas,Americas
+CUB,72,MEX,82,3,2022.02.24,"City, Arena: La Habana (CUB), Coliseo de la Ciudad Deportiva",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,75,CUB,66,5,2022.07.01,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,89,COL,93,7,2022.08.25,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,72,MEX,82,8,2022.08.29,"City, Arena: Jaraguá do Sul (BRA), Arena Jaraguá",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,56,BRA,102,10,2022.11.14,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,54,MEX,113,11,2023.02.23,"City, Arena: Medellín (COL), Coliseo Ivan de Bedout",FIBA World Cup 2023 Qualifier Americas,Americas
+ARG,65,PAN,58,4,2022.02.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,77,ARG,88,6,2022.07.03,"City, Arena: Panama City (PAN), Arena Roberto Durán",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,70,PAN,61,7,2022.08.25,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,50,CAN,106,8,2022.08.29,"City, Arena: Panama City (PAN), Arena Roberto Durán",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,83,PAN,79,9,2022.11.11,"City, Arena: Nassau (BAH), Sir Kendal Isaacs Gymnasium",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,112,PAN,71,10,2022.11.13,"City, Arena: Edmonton (CAN), Expo Centre",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,67,DOM,93,11,2023.02.23,"City, Arena: Panama City (PAN), Arena Roberto Durán",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,88,BAH,66,12,2023.02.26,"City, Arena: Panama City (PAN), Arena Roberto Durán",FIBA World Cup 2023 Qualifier Americas,Americas
+ARG,93,PAR,67,1,2021.11.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAR,43,ARG,82,2,2021.11.27,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAR,59,PAN,81,3,2022.02.25,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,81,PAR,54,5,2022.06.30,"City, Arena: Panama City (PAN), Arena Roberto Durán",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,90,PUR,86,1,2021.11.28,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,69,CUB,60,2,2021.11.29,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+CUB,62,PUR,65,4,2022.02.27,"City, Arena: La Habana (CUB), Coliseo de la Ciudad Deportiva",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,97,MEX,87,6,2022.07.04,"City, Arena: San Juan (PUR), Coliseo Roberto Clemente",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,75,BRA,72,7,2022.08.25,"City, Arena: San Juan (PUR), Coliseo Roberto Clemente",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,91,COL,79,9,2022.11.11,"City, Arena: San Juan (PUR), Coliseo Roberto Clemente",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,90,PUR,92,11,2023.02.23,"City, Arena: Santa Cruz do Sul (BRA), Ginásio Poliesportivo Arnão",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,80,PUR,87,12,2023.02.26,"City, Arena: Medellín (COL), Coliseo Ivan de Bedout",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,83,COL,75,1,2021.11.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,69,URU,82,2,2021.11.27,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,85,URU,66,3,2022.02.25,"City, Arena: Franca (BRA), Ginásio Pedrocão",FIBA World Cup 2023 Qualifier Americas,Americas
+CHI,67,URU,78,4,2022.02.28,"City, Arena: Valdivia (CHI), Coliseo Antonio Azurmendi",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,60,BRA,73,5,2022.06.30,"City, Arena: Montevideo (URU), Antel Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,75,CHI,65,6,2022.07.03,"City, Arena: Montevideo (URU), Antel Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,78,PUR,70,8,2022.08.29,"City, Arena: Montevideo (URU), Antel Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,80,URU,60,9,2022.11.11,"City, Arena: Chilpancingo (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,76,URU,68,10,2022.11.14,"City, Arena: San Juan (PUR), Coliseo Roberto Clemente",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,69,MEX,82,12,2023.02.26,"City, Arena: Montevideo (URU), Antel Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,95,CUB,90,1,2021.11.28,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+MEX,97,USA,88,2,2021.11.29,"City, Arena: Chihuahua City (MEX), Gimnasio Auditorio Universitario",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,93,PUR,76,3,2022.02.24,"City, Arena: Washington DC (USA), Entertainment & Sports Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,89,MEX,67,4,2022.02.27,"City, Arena: Washington DC (USA), Entertainment & Sports Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+PUR,75,USA,83,5,2022.07.01,"City, Arena: San Juan (PUR), Coliseo Roberto Clemente",FIBA World Cup 2023 Qualifier Americas,Americas
+CUB,64,USA,87,6,2022.07.04,"City, Arena: La Habana (CUB), Coliseo de la Ciudad Deportiva",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,105,URU,71,7,2022.08.25,"City, Arena: Las Vegas (USA), Cox Pavilion",FIBA World Cup 2023 Qualifier Americas,Americas
+COL,77,USA,95,8,2022.08.29,"City, Arena: Barranquilla (COL), Coliseo Deportivo Elias Chegwin",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,79,BRA,94,9,2022.11.11,"City, Arena: Washington (USA), Entertainment & Sports Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+USA,88,COL,81,10,2022.11.14,"City, Arena: Washington (USA), Entertainment & Sports Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+URU,77,USA,88,11,2023.02.23,"City, Arena: Montevideo (URU), Antel Arena",FIBA World Cup 2023 Qualifier Americas,Americas
+BRA,83,USA,76,12,2023.02.26,"City, Arena: Santa Cruz do Sul (BRA), Ginásio Poliesportivo Arnão",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,77,PAN,56,1,2021.11.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAN,53,VEN,71,2,2021.11.27,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+ARG,58,VEN,71,3,2022.02.25,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+PAR,48,VEN,97,4,2022.02.26,"City, Arena: Buenos Aires (ARG), Estadio Obras Sanitarias",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,66,ARG,69,5,2022.06.30,"City, Arena: Puerto La Cruz (VEN), Gimnasio Luis Ramos",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,87,PAR,59,6,2022.07.03,"City, Arena: Puerto La Cruz (VEN), Gimnasio Luis Ramos",FIBA World Cup 2023 Qualifier Americas,Americas
+BAH,81,VEN,86,7,2022.08.25,"City, Arena: Nassau (BAH), Sir Kendal Isaacs Gymnasium",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,76,DOM,72,8,2022.08.29,"City, Arena: Barquisimeto (VEN), Domo Bolivariano",FIBA World Cup 2023 Qualifier Americas,Americas
+CAN,94,VEN,56,9,2022.11.10,"City, Arena: Edmonton (CAN), Expo Centre",FIBA World Cup 2023 Qualifier Americas,Americas
+DOM,72,VEN,68,10,2022.11.13,"City, Arena: Santo Domingo (DOM), Palacio de los Deportes",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,115,BAH,70,11,2023.02.23,"City, Arena: Caracas (VEN), Poliedro de Caracas",FIBA World Cup 2023 Qualifier Americas,Americas
+VEN,57,CAN,74,12,2023.02.26,"City, Arena: Caracas (VEN), Poliedro de Caracas",FIBA World Cup 2023 Qualifier Americas,Americas
+BRN,50,AUS,104,7,2022.08.25,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,83,BRN,51,11,2023.02.23,"City, Arena: Melbourne (AUS), State Basketball Centre",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,76,CHN,69,3,2022.06.30,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,48,AUS,71,5,2022.07.03,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,80,BRN,67,8,2022.08.29,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+BRN,67,CHN,80,10,2022.11.14,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,82,BRN,66,1,2021.11.26,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+BRN,64,IRI,100,2,2021.11.29,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,98,IRI,68,8,2022.08.29,"City, Arena: Bendigo (AUS), Bendigo Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,72,CHN,81,9,2022.11.11,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,20,AUS,0,10,2022.11.14,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,86,IRI,74,12,2023.02.26,"City, Arena: Hong Kong (HKG), Tsuen Wan Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,94,INA,64,4,2022.02.27,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+INA,52,JOR,77,6,2022.07.04,"City, Arena: Jakarta (INA), Istora Senayan",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,80,IND,64,7,2022.08.25,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+IND,63,JOR,98,11,2023.02.24,"City, Arena: Bengaluru (IND), Sree Kanteerava Indoor Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,79,JPN,63,1,2021.11.27,"City, Arena: Sendai (JPN), Xebio Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,73,CHN,106,2,2021.11.28,"City, Arena: Sendai (JPN), Xebio Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,80,JPN,64,4,2022.02.27,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,52,AUS,98,5,2022.07.01,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,79,JPN,68,7,2022.08.25,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+BRN,74,JPN,87,9,2022.11.11,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,96,IRI,61,11,2023.02.23,"City, Arena: Takasaki (JPN), Takasaki Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,95,BRN,72,12,2023.02.26,"City, Arena: Takasaki (JPN), Takasaki Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,69,KAZ,73,3,2022.02.24,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+BRN,48,KAZ,95,4,2022.02.27,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,68,IRI,60,5,2022.07.01,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,51,BRN,62,6,2022.07.04,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,56,CHN,68,7,2022.08.25,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,73,KAZ,48,8,2022.08.30,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,50,AUS,97,9,2022.11.11,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,61,JPN,81,10,2022.11.14,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,71,KAZ,59,11,2023.02.23,"City, Arena: Hong Kong (HKG), Tsuen Wan Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,98,KAZ,53,12,2023.02.26,"City, Arena: Melbourne (AUS), State Basketball Centre",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,68,KSA,61,1,2021.11.26,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,72,JOR,64,2,2021.11.29,"City, Arena: Jeddah (KSA), King Abdullah Sports City",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,95,INA,66,3,2022.02.24,"City, Arena: Jeddah (KSA), King Abdullah Sports City",FIBA World Cup 2023 Qualifier Asia,Asia
+INA,67,KSA,69,5,2022.07.01,"City, Arena: Jakarta (INA), Istora Senayan",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,85,IND,54,9,2022.11.10,"City, Arena: Jeddah (KSA), King Abdullah Sports City",FIBA World Cup 2023 Qualifier Asia,Asia
+IND,60,KSA,71,12,2023.02.27,"City, Arena: Bengaluru (IND), Sree Kanteerava Indoor Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,96,INA,38,1,2021.11.26,"City, Arena: Zouk Mikael (LBN), Nouhad Nawfal Sports Complex",FIBA World Cup 2023 Qualifier Asia,Asia
+INA,64,LBN,110,2,2021.11.29,"City, Arena: Zouk Mikael (LBN), Nouhad Nawfal Sports Complex",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,74,LBN,63,3,2022.02.24,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,68,LBN,81,4,2022.02.27,"City, Arena: Jeddah (KSA), King Abdullah Sports City",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,89,JOR,70,5,2022.07.01,"City, Arena: Zouk Mikael (LBN), Nouhad Nawfal Sports Complex",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,90,KSA,60,6,2022.07.04,"City, Arena: Zouk Mikael (LBN), Nouhad Nawfal Sports Complex",FIBA World Cup 2023 Qualifier Asia,Asia
+IND,63,LBN,95,8,2022.08.29,"City, Arena: Bengaluru (IND), Sree Kanteerava Indoor Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,103,IND,74,10,2022.11.13,"City, Arena: Beirut (LBN), Pierre Gemayel Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+NZL,101,IND,46,1,2022.02.24,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023 Qualifier Asia,Asia
+IND,60,NZL,95,3,2022.02.28,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,65,NZL,80,5,2022.08.25,"City, Arena: Dammam (KSA), Dammam Green Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+NZL,100,JOR,72,6,2022.08.29,"City, Arena: Auckland (NZL), EventFinda Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,77,NZL,65,7,2022.11.10,"City, Arena: Beirut (LBN), Pierre Gemayel Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,92,NZL,75,8,2022.11.13,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+NZL,110,KSA,63,9,2023.02.24,"City, Arena: Christchurch (NZL), Christchurch Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+NZL,106,LBN,91,10,2023.02.27,"City, Arena: Wellington (NZL), TSB Bank Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+IND,64,PHI,88,1,2022.02.25,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023 Qualifier Asia,Asia
+NZL,88,PHI,63,2,2022.02.27,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023 Qualifier Asia,Asia
+PHI,60,NZL,106,3,2022.06.30,"City, Arena: Auckland (NZL), EventFinda Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+PHI,79,IND,63,4,2022.07.03,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+LBN,85,PHI,81,5,2022.08.25,"City, Arena: Beirut (LBN), Nouhad Nawfal Sports Complex",FIBA World Cup 2023 Qualifier Asia,Asia
+PHI,84,KSA,46,6,2022.08.29,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JOR,66,PHI,74,7,2022.11.10,"City, Arena: Amman (JOR), Prince Hamza",FIBA World Cup 2023 Qualifier Asia,Asia
+KSA,63,PHI,76,8,2022.11.13,"City, Arena: Jeddah (KSA), King Abdullah Sports City",FIBA World Cup 2023 Qualifier Asia,Asia
+PHI,107,LBN,96,9,2023.02.24,"City, Arena: Bulacan (PHI), Philippine Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+PHI,90,JOR,91,10,2023.02.27,"City, Arena: Bulacan (PHI), Philippine Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+KAZ,84,SYR,74,1,2021.11.26,"City, Arena: Astana (KAZ), Republican Velodrome Saryarka",FIBA World Cup 2023 Qualifier Asia,Asia
+SYR,71,KAZ,81,2,2021.11.29,"City, Arena: Damascus (SYR), Al Fayhaa Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+BRN,64,SYR,80,3,2022.02.24,"City, Arena: Manama (BRN), Khalifa Sport City",FIBA World Cup 2023 Qualifier Asia,Asia
+IRI,80,SYR,68,4,2022.02.27,"City, Arena: Tehran (IRI), Azadi Basketball Hall",FIBA World Cup 2023 Qualifier Asia,Asia
+SYR,67,BRN,76,5,2022.07.01,"City, Arena: Aleppo (SYR), Al Hamadaniyeh Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+SYR,56,IRI,91,6,2022.07.04,"City, Arena: Aleppo (SYR), Al Hamadaniyeh Stadium",FIBA World Cup 2023 Qualifier Asia,Asia
+AUS,98,TPE,61,1,2022.02.25,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+TPE,71,JPN,76,2,2022.02.26,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+TPE,71,AUS,90,3,2022.02.28,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+CHN,94,TPE,58,4,2022.07.01,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+JPN,89,TPE,49,5,2022.07.03,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+TPE,56,CHN,97,6,2022.07.04,"City, Arena: Melbourne (AUS), John Cain Arena",FIBA World Cup 2023 Qualifier Asia,Asia
+BUL,75,BIH,85,2,2021.11.29,"City, Arena: Botevgrad (BUL), Arena Botevgrad",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,76,BUL,73,6,2022.07.04,"City, Arena: Sarajevo (BIH), Dvorana ""Mirza Delibasic"" - Skenderija",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,97,CZE,90,1,2021.11.26,"City, Arena: Sarajevo (BIH), Dvorana ""Mirza Delibasic"" - Skenderija",FIBA World Cup 2023 Qualifier Europe,Europe
+BUL,79,CZE,70,3,2022.02.24,"City, Arena: Botevgrad (BUL), Arena Botevgrad",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,83,BUL,80,4,2022.02.27,"City, Arena: Pardubice (CZE), Enteria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,93,BIH,81,5,2022.07.01,"City, Arena: Pardubice (CZE), Enteria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,77,CRO,71,2,2021.11.28,"City, Arena: Espoo (FIN), Espoo Metro Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+CRO,79,FIN,81,6,2022.07.03,"City, Arena: Rijeka (CRO), Centar Zamet",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,68,FIN,76,8,2022.08.28,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,91,EST,71,10,2022.11.14,"City, Arena: Espoo (FIN), Espoo Metro Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,95,CZE,60,7,2022.08.24,"City, Arena: Paris (FRA), Accor Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,96,FRA,90,8,2022.08.27,"City, Arena: Sarajevo (BIH), Dvorana ""Mirza Delibasic"" - Skenderija",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,92,BIH,56,10,2022.11.14,"City, Arena: Pau (FRA), Palais des Sports de Pau",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,59,FRA,72,11,2023.02.23,"City, Arena: Pardubice (CZE), Enteria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,72,GBR,57,5,2022.08.25,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GBR,59,BEL,88,9,2023.02.24,"City, Arena: Newcastle upon Tyne (GBR), Vertu Motors Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,89,GEO,61,2,2021.11.29,"City, Arena: Jaen (ESP), Palacio de Deportes Olivo Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,82,ESP,76,6,2022.07.04,"City, Arena: Tbilisi (GEO), Tbilisi Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,66,EST,69,1,2021.11.25,"City, Arena: Nürnberg (GER), KIA Metropol Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,57,GER,88,5,2022.06.30,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,94,FIN,80,9,2022.11.11,"City, Arena: Bamberg (GER), Brose Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,81,GER,87,12,2023.02.27,"City, Arena: Espoo (FIN), Espoo Metro Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GBR,78,GRE,69,1,2021.11.25,"City, Arena: Newcastle upon Tyne (GBR), Vertu Motors Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GRE,93,GBR,71,4,2022.06.30,"City, Arena: Larissa (GRE), E.A.K. Neapolis",FIBA World Cup 2023 Qualifier Europe,Europe
+GRE,85,BEL,68,6,2022.08.28,"City, Arena: Athens (GRE), Olyimpic Athletic Center of Athens ""Spiros Louis""",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,70,GRE,72,8,2022.11.14,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,54,FRA,78,2,2021.11.29,"City, Arena: Kaposvar (HUN), Kaposvar Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,81,HUN,40,6,2022.07.04,"City, Arena: Mouilleron-Le- Captif (FRA), Vendespace",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,79,HUN,82,8,2022.08.27,"City, Arena: Chomutov (CZE), Rocknet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,83,HUN,78,9,2022.11.11,"City, Arena: Sarajevo (BIH), Dvorana ""Mirza Delibasic"" - Skenderija",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,83,CZE,69,10,2022.11.14,"City, Arena: Szombathely (HUN), Savaria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,87,BIH,77,12,2023.02.26,"City, Arena: Szombathely (HUN), Savaria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,87,ISL,57,5,2022.08.24,"City, Arena: Pamplona (ESP), Arena of CB Navarra",FIBA World Cup 2023 Qualifier Europe,Europe
+ISL,85,GEO,88,7,2022.11.11,"City, Arena: Reykjavik (ISL), Laugardalshöll",FIBA World Cup 2023 Qualifier Europe,Europe
+ISL,61,ESP,80,9,2023.02.23,"City, Arena: Reykjavik (ISL), Laugardalshöll",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,77,ISL,80,10,2023.02.26,"City, Arena: Tbilisi (GEO), Tbilisi Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,69,ISR,79,2,2021.11.28,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,67,GER,71,3,2022.02.25,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,84,ISR,80,4,2022.02.28,"City, Arena: Heidelberg (GER), SNP Dome",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,96,EST,77,6,2022.07.03,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,79,ISR,73,7,2022.08.25,"City, Arena: Tampere (FIN), Nokia Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,95,FIN,97,11,2023.02.24,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ISL,107,ITA,105,2,2022.02.24,"City, Arena: Hafnarfjordur (ISL), Ithrottamidstod Asvellir",FIBA World Cup 2023 Qualifier Europe,Europe
+ITA,95,ISL,87,3,2022.02.27,"City, Arena: Bologna (ITA), PalaDozza",FIBA World Cup 2023 Qualifier Europe,Europe
+ITA,91,GEO,84,6,2022.08.27,"City, Arena: Brescia (ITA), PalaLeonessa",FIBA World Cup 2023 Qualifier Europe,Europe
+ITA,84,ESP,88,7,2022.11.11,"City, Arena: Pesaro (ITA), Vitrifrigo Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,84,ITA,85,8,2022.11.14,"City, Arena: Tbilisi (GEO), Tbilisi Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,68,ITA,72,10,2023.02.26,"City, Arena: Caceres (ESP), Arena of Caceres CB",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,65,LAT,66,3,2022.02.25,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,68,BEL,63,4,2022.02.28,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+GBR,80,LAT,87,8,2022.08.28,"City, Arena: Newcastle upon Tyne (GBR), Vertu Motors Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GRE,60,LAT,80,9,2022.11.11,"City, Arena: Heraklion (GRE), Heraklion Arena ""Dyo Aorakia""",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,79,GBR,63,10,2022.11.14,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,67,GRE,57,12,2023.02.27,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,89,BUL,69,1,2021.11.26,"City, Arena: Klaipeda (LTU), Svyturio Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,66,LTU,74,2,2021.11.29,"City, Arena: Opava (CZE), Víceúčelová Hala Opava",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,77,LTU,78,3,2022.02.24,"City, Arena: Tuzla (BIH), Mejdan",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,77,BIH,56,4,2022.02.27,"City, Arena: Vilnius (LTU), Avia Solutions Group Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+BUL,70,LTU,72,5,2022.07.01,"City, Arena: Samokov (BUL), Arena Samokov",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,72,CZE,83,6,2022.07.04,"City, Arena: Klaipeda (LTU), Svyturio Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,78,LTU,88,7,2022.08.24,"City, Arena: Szombathely (HUN), Savaria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,65,FRA,90,9,2022.11.11,"City, Arena: Panevėžys (LTU), Panevezio arena",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,89,HUN,64,11,2023.02.23,"City, Arena: Klaipeda (LTU), Svyturio Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,70,LTU,63,12,2023.02.26,"City, Arena: Trélazé (FRA), Arena Loire",FIBA World Cup 2023 Qualifier Europe,Europe
+MKD,65,ESP,94,1,2021.11.26,"City, Arena: Skopje (MKD), Sports Centre Jane Sandanski",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,91,MKD,70,3,2022.02.24,"City, Arena: Tbilisi (GEO), Tbilisi Sports Palace",FIBA World Cup 2023 Qualifier Europe,Europe
+MKD,65,GEO,79,4,2022.02.27,"City, Arena: Skopje (MKD), Sports Centre Boris Trajkovski",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,80,MKD,44,5,2022.07.01,"City, Arena: Zaragoza (ESP), Pabellon Principe Felipe",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,73,MNE,67,1,2021.11.26,"City, Arena: Pau (FRA), Palais des Sports de Pau",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,67,MNE,83,3,2022.02.24,"City, Arena: Debrecen (HUN), Fönix Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,84,HUN,88,4,2022.02.27,"City, Arena: Podgorica (MNE), Bemax Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,70,FRA,69,5,2022.07.01,"City, Arena: Podgorica (MNE), Moraca Sports Centre",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,88,BIH,69,7,2022.08.24,"City, Arena: Podgorica (MNE), Moraca Sports Centre",FIBA World Cup 2023 Qualifier Europe,Europe
+LTU,90,MNE,73,8,2022.08.27,"City, Arena: Kaunas (LTU), Žalgirio Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+CZE,56,MNE,65,9,2022.11.11,"City, Arena: Pardubice (CZE), Enteria Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,56,LTU,65,10,2022.11.14,"City, Arena: Podgorica (MNE), Moraca Sports Centre",FIBA World Cup 2023 Qualifier Europe,Europe
+BIH,74,MNE,66,11,2023.02.23,"City, Arena: Tuzla (BIH), Mejdan",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,88,CZE,70,12,2023.02.26,"City, Arena: Podgorica (MNE), Moraca Sports Centre",FIBA World Cup 2023 Qualifier Europe,Europe
+NED,77,ISL,79,1,2021.11.26,"City, Arena: Almere Stad (NED), Topsportcentrum",FIBA World Cup 2023 Qualifier Europe,Europe
+ITA,75,NED,73,2,2021.11.29,"City, Arena: Milan (ITA), Forum di Assago",FIBA World Cup 2023 Qualifier Europe,Europe
+ISL,67,NED,66,3,2022.07.01,"City, Arena: Hafnarfjordur (ISL), Ithrottamidstod Asvellir",FIBA World Cup 2023 Qualifier Europe,Europe
+NED,81,ITA,92,4,2022.07.04,"City, Arena: Almere Stad (NED), Topsportcentrum",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,77,NED,66,5,2022.08.24,"City, Arena: Tbilisi (GEO), Tbilisi Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+NED,64,ESP,86,6,2022.08.27,"City, Arena: Almere Stad (NED), Topsportcentrum",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,84,NED,72,8,2022.11.14,"City, Arena: Huelva (ESP), Palacio de Deportes Carolina Marin",FIBA World Cup 2023 Qualifier Europe,Europe
+NED,80,GEO,88,9,2023.02.23,"City, Arena: Almere Stad (NED), Topsportcentrum",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,69,POL,61,1,2021.11.25,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+POL,69,GER,72,2,2021.11.28,"City, Arena: Lublin (POL), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,75,POL,71,3,2022.02.25,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+POL,70,EST,68,4,2022.02.28,"City, Arena: Lublin (POL), Globus Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+POL,90,ISR,85,5,2022.06.30,"City, Arena: Lublin (POL), Globus Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,93,POL,83,6,2022.07.03,"City, Arena: Bremen (GER), ÖVB Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+POR,75,HUN,81,1,2021.11.26,"City, Arena: Matosinhos (POR), Centro de Desportos e Congressos de Matosinhos",FIBA World Cup 2023 Qualifier Europe,Europe
+MNE,83,POR,69,2,2021.11.29,"City, Arena: Podgorica (MNE), Bemax Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FRA,94,POR,56,3,2022.02.24,"City, Arena: Dijon (FRA), Palais des Sport Jean-Michel Geoffroy",FIBA World Cup 2023 Qualifier Europe,Europe
+POR,56,FRA,69,4,2022.02.27,"City, Arena: Matosinhos (POR), Centro de Desportos e Congressos de Matosinhos",FIBA World Cup 2023 Qualifier Europe,Europe
+HUN,69,POR,68,5,2022.07.01,"City, Arena: Budapest (HUN), Tüskecsarnok",FIBA World Cup 2023 Qualifier Europe,Europe
+POR,62,MNE,77,6,2022.07.04,"City, Arena: Odivelas (POR), Pavilhão Multiusos de Odivelas",FIBA World Cup 2023 Qualifier Europe,Europe
+CRO,74,SLO,76,1,2021.11.25,"City, Arena: Zagreb (CRO), Drazen Petrovic Basketball Center",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,86,SLO,76,3,2022.02.25,"City, Arena: Espoo (FIN), Espoo Metro Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,79,FIN,83,4,2022.02.28,"City, Arena: Koper (SLO), Bonifika Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,97,CRO,69,5,2022.06.30,"City, Arena: Ljubljana (SLO), Arena Stožice",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,104,EST,83,7,2022.08.25,"City, Arena: Celje (SLO), Zlatorog Sport Centre",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,90,SLO,71,8,2022.08.28,"City, Arena: Munich (GER), Audi Dome",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,62,SLO,75,9,2022.11.11,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,81,GER,75,10,2022.11.14,"City, Arena: Koper (SLO), Bonifika Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,79,SLO,78,11,2023.02.24,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,79,ISR,87,12,2023.02.27,"City, Arena: Koper (SLO), Bonifika Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,101,LAT,100,1,2021.11.25,"City, Arena: Belgrade (SRB), Aleksandar Nikolic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,73,SRB,69,2,2021.11.28,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,66,SRB,59,5,2022.06.30,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,73,BEL,74,6,2022.07.04,"City, Arena: Nis (SRB), Sports Centre Cair",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,100,GRE,94,7,2022.08.25,"City, Arena: Belgrade (SRB), Belgrade Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GBR,68,SRB,74,9,2022.11.11,"City, Arena: Newcastle upon Tyne (GBR), Vertu Motors Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GRE,97,SRB,92,11,2023.02.24,"City, Arena: Athens (GRE), Ano Liossia Olympic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,101,GBR,83,12,2023.02.27,"City, Arena: Belgrade (SRB), Aleksandar Nikolic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+SVK,57,BEL,83,1,2021.11.25,"City, Arena: Levice (SVK), Sportova Hala Levice",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,82,SVK,74,2,2021.11.29,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,75,SVK,63,3,2022.02.25,"City, Arena: Belgrade (SRB), Aleksandar Nikolic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+SVK,63,SRB,71,4,2022.02.28,"City, Arena: Levice (SVK), Sportova Hala Levice",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,102,SVK,59,5,2022.06.30,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SVK,60,LAT,93,6,2022.07.03,"City, Arena: Levice (SVK), Sportova Hala Levice",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,72,FIN,62,1,2021.11.25,"City, Arena: Stockholm (SWE), Avicii Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SLO,94,SWE,89,2,2021.11.28,"City, Arena: Koper (SLO), Bonifika Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+CRO,64,SWE,70,3,2022.02.25,"City, Arena: Zagreb (CRO), Drazen Petrovic Basketball Center",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,98,CRO,105,4,2022.02.28,"City, Arena: Norrköping (SWE), Stadium Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+FIN,85,SWE,69,5,2022.06.30,"City, Arena: Espoo (FIN), Espoo Metro Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,81,SLO,84,6,2022.07.03,"City, Arena: Stockholm (SWE), Hovet",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,50,GER,67,7,2022.08.25,"City, Arena: Stockholm (SWE), Hovet",FIBA World Cup 2023 Qualifier Europe,Europe
+ISR,83,SWE,95,8,2022.08.28,"City, Arena: Tel Aviv (ISR), Tel Aviv Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+EST,82,SWE,87,9,2022.11.11,"City, Arena: Tallinn (EST), Unibet Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,71,ISR,68,10,2022.11.14,"City, Arena: Norrköping (SWE), Stadium Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GER,73,SWE,66,11,2023.02.24,"City, Arena: Frankfurt (GER), Suwag Energie Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SWE,71,EST,72,12,2023.02.27,"City, Arena: Malmö (SWE), Baltiska Hallen",FIBA World Cup 2023 Qualifier Europe,Europe
+TUR,84,GBR,67,1,2021.11.28,"City, Arena: Istanbul (TUR), Sinan Erdem Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GRE,72,TUR,71,2,2022.02.25,"City, Arena: ANO LIOSIA (GRE), Ano Liossia Olympic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+TUR,67,GRE,76,3,2022.02.28,"City, Arena: Istanbul (TUR), Sinan Erdem Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GBR,71,TUR,85,4,2022.07.03,"City, Arena: Newcastle upon Tyne (GBR), Vertu Motors Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+LAT,111,TUR,85,5,2022.08.25,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+TUR,72,SRB,79,6,2022.08.28,"City, Arena: Istanbul (TUR), Sinan Erdem Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+TUR,86,BEL,52,7,2022.11.11,"City, Arena: Istanbul (TUR), Sinan Erdem Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+SRB,77,TUR,76,8,2022.11.14,"City, Arena: Belgrade (SRB), Aleksandar Nikolic Hall",FIBA World Cup 2023 Qualifier Europe,Europe
+TUR,74,LAT,83,9,2023.02.24,"City, Arena: Bursa (TUR), Tofas Nilüfer Spor Salonu",FIBA World Cup 2023 Qualifier Europe,Europe
+BEL,54,TUR,82,10,2023.02.27,"City, Arena: Mons (BEL), Mons Arena",FIBA World Cup 2023 Qualifier Europe,Europe
+GEO,88,UKR,83,1,2021.11.26,"City, Arena: Tbilisi (GEO), Tbilisi Sports Palace",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,78,MKD,61,2,2021.11.29,"City, Arena: Kyiv (UKR), Palace of Sports",FIBA World Cup 2023 Qualifier Europe,Europe
+ESP,88,UKR,74,3,2022.02.24,"City, Arena: Córdoba (ESP), Palacio Municipal de Deportes Vista Alegre",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,79,GEO,66,4,2022.07.01,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+MKD,68,UKR,73,5,2022.07.04,"City, Arena: Skopje (MKD), Sports Centre Boris Trajkovski",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,76,ESP,77,6,2022.07.07,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,89,ITA,97,7,2022.08.24,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+ISL,91,UKR,88,8,2022.08.27,"City, Arena: Hafnarfjordur (ISL), Ithrottamidstod Asvellir",FIBA World Cup 2023 Qualifier Europe,Europe
+NED,77,UKR,96,9,2022.11.11,"City, Arena: Almere Stad (NED), Topsportcentrum",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,79,ISL,72,10,2022.11.14,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
+ITA,85,UKR,75,11,2023.02.23,"City, Arena: Livorno (ITA), Palazzetto Amedeo Modigliani Forum",FIBA World Cup 2023 Qualifier Europe,Europe
+UKR,72,NED,56,12,2023.02.26,"City, Arena: Riga (LAT), Arena Riga",FIBA World Cup 2023 Qualifier Europe,Europe
