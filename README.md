@@ -3,6 +3,10 @@ FIBA API on world cup game results. It uses fastapi framework and is hosted by f
 
 If you want to test this locally, clone this repo, install the libraies in requirements.txt and send the command `uvicorn main:app --reload`.
 
+## Pytest
+
+Install httpx and send `pytest` from command line. test_main.py will be executed.
+
 ## Endpoints
 
 * https://apifiba.fly.dev/worldcup/2023/championship
