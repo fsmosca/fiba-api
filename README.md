@@ -14,6 +14,8 @@ https://apifiba.fly.dev/worldcup/2023/championship?team=ger
 
 https://apifiba.fly.dev/worldcup/2023/qualifier?zone=africa
 
+You can access the api docs at https://apifiba.fly.dev/docs
+
 ## Usage
 
 ### Get all game results from the world cup 2023 championship
