@@ -1,10 +1,18 @@
-# fiba-api
-FIBA API on world cup game results
+# FIBA API
+FIBA API on world cup game results. It uses fastapi framework and is hosted by fly.io.
 
 ## Endpoints
 
 * https://apifiba.fly.dev/worldcup/2023/championship
 * https://apifiba.fly.dev/worldcup/2023/qualifier
+
+The `championship` endpoint has a single query parameter called team. While the `qualifier` has two namely zone and team.
+
+Examples:
+
+https://apifiba.fly.dev/worldcup/2023/championship?team=ger
+
+https://apifiba.fly.dev/worldcup/2023/qualifier?zone=africa
 
 ## Usage
 
