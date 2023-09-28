@@ -1,0 +1,93 @@
+C1,C1S,C2,C2S,GI,DP,LOC,EVENT
+CAN,65,BRA,69,4,2023.09.01,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+ANG,76,CHN,83,4,2023.08.31,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+CIV,77,BRA,89,3,2023.08.30,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+ANG,67,DOM,75,3,2023.08.29,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+ESP,94,CIV,64,1,2023.08.26,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+BRA,78,ESP,96,2,2023.08.28,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+ESP,85,CAN,88,5,2023.09.03,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+FIN,72,AUS,98,1,2023.08.25,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+CPV,77,FIN,100,4,2023.08.31,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+CAN,95,FRA,65,1,2023.08.25,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+CIV,77,FRA,87,5,2023.09.02,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+CPV,60,GEO,85,1,2023.08.26,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+AUS,100,GEO,84,5,2023.09.03,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+AUS,82,GER,85,2,2023.08.27,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+GER,101,FIN,75,3,2023.08.29,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+GER,100,GEO,73,4,2023.09.01,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+IRI,59,BRA,100,1,2023.08.26,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+CIV,71,IRI,69,2,2023.08.28,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+IRI,65,ESP,85,3,2023.08.30,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+FRA,82,IRI,55,4,2023.08.31,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+ANG,67,ITA,81,1,2023.08.25,"City, Arena: Bulacan (PHI), Philippine Arena",FIBA World Cup 2023
+ITA,82,DOM,87,2,2023.08.27,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+JOR,71,GRE,92,1,2023.08.26,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+EGY,85,JOR,69,4,2023.08.31,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+GER,81,JPN,63,1,2023.08.25,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+JPN,98,FIN,88,2,2023.08.27,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+AUS,109,JPN,89,3,2023.08.29,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+JPN,80,CPV,71,5,2023.09.02,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+FRA,86,LAT,88,2,2023.08.27,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+CAN,101,LAT,75,3,2023.08.29,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+ESP,69,LAT,74,4,2023.09.01,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+BRA,84,LAT,104,5,2023.09.03,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+GER,81,LAT,79,6,2023.09.06,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+ITA,82,LAT,87,7,2023.09.07,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+LAT,109,LBN,70,1,2023.08.25,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+LBN,73,CAN,128,2,2023.08.27,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+LBN,79,FRA,85,3,2023.08.29,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+CIV,84,LBN,94,4,2023.08.31,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+IRI,73,LBN,81,5,2023.09.02,"City, Arena: Jakarta (INA), Indonesia Arena",FIBA World Cup 2023
+EGY,67,LTU,93,1,2023.08.25,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+LTU,92,GRE,67,4,2023.09.01,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+LAT,98,LTU,63,8,2023.09.09,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+LTU,96,MEX,66,2,2023.08.27,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+EGY,100,MEX,72,3,2023.08.29,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+JOR,80,MEX,93,5,2023.09.02,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+MEX,71,MNE,91,1,2023.08.25,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+MNE,89,EGY,74,2,2023.08.27,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+MNE,71,LTU,91,3,2023.08.29,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+GRE,69,MNE,73,5,2023.09.03,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+NZL,95,JOR,87,2,2023.08.28,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+GRE,83,NZL,74,3,2023.08.30,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+NZL,100,MEX,108,4,2023.08.31,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+NZL,88,EGY,86,5,2023.09.02,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+DOM,87,PHI,81,1,2023.08.25,"City, Arena: Bulacan (PHI), Philippine Arena",FIBA World Cup 2023
+PHI,70,ANG,80,2,2023.08.27,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+PHI,83,ITA,90,3,2023.08.29,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+PHI,96,CHN,75,5,2023.09.02,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+CHN,89,PUR,107,3,2023.08.30,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+DOM,97,PUR,102,4,2023.09.01,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+ITA,73,PUR,57,5,2023.09.03,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+GEO,67,SLO,88,2,2023.08.28,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+SLO,92,CPV,77,3,2023.08.30,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+SLO,91,AUS,80,4,2023.09.01,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+GER,100,SLO,71,5,2023.09.03,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+CAN,100,SLO,89,6,2023.09.06,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+LTU,100,SLO,84,7,2023.09.07,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+ITA,85,SLO,89,8,2023.09.09,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+SRB,105,CHN,63,1,2023.08.26,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+PUR,77,SRB,94,2,2023.08.28,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+SRB,76,ITA,78,4,2023.09.01,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+DOM,79,SRB,112,5,2023.09.03,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+LTU,68,SRB,87,6,2023.09.05,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+SRB,95,CAN,86,7,2023.09.08,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+GER,83,SRB,77,8,2023.09.10,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+SSD,96,PUR,101,1,2023.08.26,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+CHN,69,SSD,89,2,2023.08.28,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+SSD,83,SRB,115,3,2023.08.30,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+SSD,87,PHI,68,4,2023.08.31,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+ANG,78,SSD,101,5,2023.09.02,"City, Arena: Quezon (PHI), Araneta Coliseum",FIBA World Cup 2023
+USA,99,NZL,72,1,2023.08.26,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+GRE,81,USA,109,2,2023.08.28,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+USA,110,JOR,62,3,2023.08.30,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+USA,85,MNE,73,4,2023.09.01,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+USA,104,LTU,110,5,2023.09.03,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+ITA,63,USA,100,6,2023.09.05,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+USA,111,GER,113,7,2023.09.08,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+USA,118,CAN,127,8,2023.09.10,"City, Arena: Manila (PHI), Mall of Asia Arena",FIBA World Cup 2023
+SLO,100,VEN,85,1,2023.08.26,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+VEN,75,CPV,81,2,2023.08.28,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+GEO,70,VEN,59,3,2023.08.30,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+JPN,86,VEN,77,4,2023.08.31,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
+FIN,90,VEN,75,5,2023.09.02,"City, Arena: Okinawa (JPN), Okinawa Arena",FIBA World Cup 2023
