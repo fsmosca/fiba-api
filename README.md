@@ -11,6 +11,7 @@ Install httpx and send `pytest` from command line. test_main.py will be executed
 
 * https://apifiba.fly.dev/worldcup/2023/championship
 * https://apifiba.fly.dev/worldcup/2023/qualifier
+* https://apifiba.fly.dev/worldcup/2019/championship
 
 The `championship` endpoint has a single query parameter called team. While the `qualifier` has two namely zone and team.
 
