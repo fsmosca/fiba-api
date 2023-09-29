@@ -1,5 +1,5 @@
 # FIBA API
-FIBA API on world cup game results. It uses fastapi framework and is hosted by fly.io.
+FIBA API on world cup game results for 2023 and 2019. It uses fastapi framework and is hosted by fly.io.
 
 If you want to test this locally, clone this repo, install the libraies in requirements.txt and send the command `uvicorn main:app --reload`.
 
