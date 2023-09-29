@@ -21,9 +21,9 @@ https://apifiba.fly.dev/worldcup/2023/championship?team=ger
 
 https://apifiba.fly.dev/worldcup/2023/qualifier?zone=africa
 
-You can access the api docs at https://apifiba.fly.dev/docs
-
 https://apifiba.fly.dev/worldcup/2019/championship?team=esp
+
+You can access the api docs at https://apifiba.fly.dev/docs
 
 ## Usage
 
