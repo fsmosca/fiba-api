@@ -11,6 +11,39 @@ ZONES = ['africa', 'americas', 'asia', 'europe']
 app = FastAPI()
 
 
+@app.get("/worldcup/2019/championship")
+async def wordcup_2019_championship(team: Optional[str] = None) -> List[Dict]:
+    """## Gets FIBA world cup 2019 championship game results.
+
+    If team is not specified, all results will be returned.
+
+    Args:  
+        &nbsp;&nbsp;team: The country code according to IOC such as
+        USA, ESP, AUS, etc.
+
+    Returns:  
+        &nbsp;&nbsp;A dataframe of match results.    
+    """
+    csvfn = './data/worldcup/2019/championship/worldcup_2019.csv'
+    df = pd.read_csv(csvfn)
+    if team is None:
+        df = df.sort_values(by=['DP', 'GI'], ascending=[True, True])
+        return df.to_dict('records')
+
+    df_left = df.loc[df['C1'].str.lower() == team.lower()]
+    df_right = df.loc[df['C2'].str.lower() == team.lower()]
+    df_all = pd.concat([df_left, df_right], ignore_index=True)
+
+    if len(df_all) <= 0:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Team {team} is not found."
+        )
+
+    df_all = df_all.sort_values(by=['DP', 'GI'], ascending=[True, True])
+    return df_all.to_dict('records')
+
+
 @app.get("/worldcup/2023/championship")
 async def wordcup_2023_championship(team: Optional[str] = None) -> List[Dict]:
     """## Gets FIBA world cup 2023 championship game results.
